@@ -14,7 +14,7 @@ Twitter deprecated the public avatar API and now it's too much work to grab some
 
 #### usage
 
-Deploy this repo to [vercel](https://vercel.com/). 
+Deploy this repo to[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world). 
 
 URL `https://your-deployment.vercel.app/{username}` returns a png
 
